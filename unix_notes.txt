@@ -1,0 +1,298 @@
+cd Documents/
+cd documents
+pwd
+history | less
+history | more
+history 5
+history 25
+history 3
+cd
+history -r
+history
+ls
+cd Sublime\ Text\ 2/
+cd bin
+cd //
+cd /bin
+cd ..
+$home
+cd /bin/
+gedit sublime.desktop
+cat sublime.desktop
+redit sublime.desktop
+cat Sublime\ Text\2
+cat sublime2
+cd /bin/Sub
+which subl
+curl -fsSl http://git.io/Ggdljw | sh
+curl -fsSl http://git.io/7UHtNA | sh
+git --version
+subl
+sudo apt-get install -y sublime-text
+exit
+ls .
+cd ..dev
+ls -a
+cd /
+ls -A
+cd ls -a .
+cd .Public
+cd .Doc
+ls /usr/bin
+ls ~
+cd Public
+cd Documents/
+cd Doc
+cd doc
+ls
+cd
+cd ../Public
+cd CodeFellows2
+cd ../..
+man ls
+ls -R
+ls -lr
+ls -r
+ls -lrt
+//comment the text for the test
+
+clear
+ls -lt
+ls -t
+ls --help
+ls --h
+ls -h
+ls -l
+echo $EDITOR
+set -gx EDITOR 'subl -w'
+sudo rm /usr/bin/subl
+subl
+ln -s Sublime\ Text\ 2/sublime_text subl
+cd su
+cd ~/bin
+subl ~/.config/fish/config.fish
+cat /usr/bin/subl
+ll /usr/bin/subl
+ls /opt
+ls /opt/sublime_text_2/
+sudo apt-get autoremove
+apt-get autoremove
+git --v
+git -v
+sudo apt-get install -y sublime-text-installer
+sudo apt-get install -y sublime-text-install
+echo $PATH
+echo --help
+gedit fish_prompt.fish
+gedit
+redgit
+regit
+sublime
+cd ~/.config/fish/functions/
+cat fish_prompt.fish
+sudo apt-get c
+sudo apt-get check
+fish_update_completions
+vi fish_prompt.fish
+cat ~/.config/fish/functions/fish_prompt.fish
+curl -fsSl http://git.io/beJs | ruby
+ls ~/.config/fish/functions/
+touch ~/.config/fish/functions/fish_prompt.fish
+mkdir ~/.config/fish/functions
+vi ~/.config/fish/functions/fish_prompt.fish
+~/.config/fish/functions/fish_prompt.fish
+eixt
+echo $status
+sudo apt-get install ruby
+chsh -s /usr/bin/fish
+uname
+sudo apt-get install -y fish git
+sudo apt-add-repository -y ppa:fish-shell/release-2
+curl -fsSL http://git.io/Ak1LNQ | sh
+cd sjkj
+node -v
+node
+sudo make install
+sudo make
+make
+./configure
+sudo ./configure
+cd /home/kendall/.node/bin
+sudo nodejs
+sudo node
+echo $HOME
+install --help
+sudo make && install
+sudo ./configure --prefix=$HOME/.node
+./configure --prefix=$HOME/.node
+which node && which npm
+which node
+sudo rm -rf ~/.node
+cd node-v0.10.35
+sudo rm -rf ~/.npm
+sudo rm -r ~/.node
+sudo rm -rf $(which npm)
+sudo rm -rf $(which node)
+python
+cc --version
+sudo apt-get update
+sudo apt-get -y install build-essential g++ libssl-dev pkg-config
+sudo make test
+make test
+nvm use 0.10.35
+cd /node-v0.10.35
+source ~/.profile
+source~/.profile
+which nodejs
+nodejs
+node js
+ls -l /usr/bin/nodejs
+node js -v
+cat /etc/bash_completion
+ls /etc/bash_completion.d/
+ls /et/bash_completion.d/
+cat ~/.bashrc
+.node
+node --version
+source ~/.bashrc
+sudo ~/.bashrc
+~/.bashrc
+echo "export NODE_PATH=$HOME/.node/lib/node_modules" >> ~/.bashrc
+echo "export PATH=$HOME/.node/bin:$PATH" >> ~/.bashrc
+sudo make && make install
+sudo apt-get install build-essential
+cd /node-v0.10.35.tar.gz
+echo "export PATH=$HOME/.node/bin:$PATH >> ~/.bashrc
+make && make install
+cd node-v0.10.35.tar.gz
+sudo tar xvf node-v0.10.35.tar.gz
+tar xvf node-v0.10.35.tar.gz
+sudo curl -O http://nodejs.org/dist/v0.10.35/node-v0.10.35.tar.gz
+curl -O http://nodejs.org/dist/v0.10.35/node-v0.10.35.tar.gz
+which npm
+git status
+git push
+git remote -v
+git removte -v
+git commit -m "All about me html page to show CSS skills"
+git add *
+cd /home/kendall
+git
+sudo chmod -R ugo+rw /home/kendall/Public
+sudo chmod -R ugo+rw /Home/Kendall/Public
+sudo chmod -R ugo+rw
+pwdr
+sudo chmod -R ugo+rw /Home/Public
+sudo rm sublime*
+cd /var/cache/apt/archives
+sudo rm *sublime*
+cd /etc/apt/sources.list.d
+sudo remove sublime*
+cd /var/lib/apt/lists
+cd var/lib/apt/lists
+sudo sublime*
+cd /var/lib/dpkg/info
+sudo rm *
+cd /etc/apt/trusted.gpg.d
+sudo rm sublime-text
+cd /usr/share/menu
+cd /home/bin
+cd /home/bn
+rm sublime-text
+cd /usr/bin
+sudo rmdir sublime-text
+rmdir sublime-text
+rm *
+cd sublime-text
+cd /usr/share/doc
+sudo rmdir sublime-text-2
+rmdir sublime-text-2
+cd sublime-text-2
+sudo rmdir /S sublime-text-2
+sudo rm sublime-text-2
+rm sublime-text-2
+cd /var/cache
+cd var/cache
+cd ~var/cache
+cd ~opt
+cd ~/opt
+sudo rm sublime-text-2.desktop
+cd /usr/share/applications
+sudo rm -R /usr/share/applications/Sublime\ Text\ 2
+sudo rm -R /usr/share/applications/sublime_text_2
+sudo rm -R /opt/sublime_text_2
+cd ~/.local
+del sublime_text_2
+delete sublime_text_2;
+sudo mv sublime_text_2 ~/opt
+cat sublime_text.desktop
+cd ~/.local/share/applications
+sudo mv ~/Public/save/sublime.desktop ~/.local/share/applications/
+sudo mkdir -p ~/bin && ln -s ~/.local/sublime_text_2/sublime_text ~/bin/sublime
+sudo mkdir -p ~/bin && ln -s ~/.local/sublime_text_2
+mkdir -p ~/bin && ln -s ~/.local/sublime_text_2
+sudo mv sublime_text_2 ~/.local
+mv sublime_text_2 ~/.local
+cd /opt
+cd..
+cd opt
+cd /usr/share/applictions
+dir
+sudo apt-get install sublime-text
+sudo add-apt-repository ppa:webupd8team/sublime-text-2
+sudo gedit /usr/share/applications/defaults.list
+sudo rm /usr/share/applications/sublime.desktop
+sudo rm /usr/bin/sublime
+sudo rm -R /opt/SublimeText2
+sudo dpkg -r sublime-text
+sudo sed -i 's/sublime\.desktop/gedit.desktop/g' usr/share/applications/defaults.list
+sudo rm/usr/share/applications/sublime.desktop
+sud rm /usr/bin/sublime
+sudo rm -r /opt/SublimeText2
+cd SublimeText2
+sudo chown -R kendall:kendall /home/kendall/.config/sublime-text-2
+sudo chown -R yourusername:kendall /home/kendall/.config/sublime-text-2
+sudo apt-get install phatch
+sudo sublime /usr/share/applications/defaults.list
+sudo sublime /usr/share/applications/sublime.desktop
+sudo ln -s /opt/SublimeText2/sublime_text /usr/bin/sublime
+sudo mv SublimeText2 /opt/
+dir *.*
+list
+cd /usr/local/bin
+sudo submime /usr/share/applications/sublime.desktop
+git commit -a
+git push -u origin master
+git remote add origin https://github.com/kcomey/CodeFellows2.git
+git commit
+git add .
+git add
+git init
+cd ~/CodeFellows2
+mkdir ~/CodeFellows2
+git push --set-upstream CodeFellows master
+git push -f
+git push --help
+git push --set-upstream origin master
+cd CodeFellows
+git merge origin/master
+git merge CodeFellows/master
+git push -f CodeFellows master
+git pull
+git push origin master
+git config --global push.default simple
+git remote add origin https://github.com/kcomey/CodeFellows.git
+git commit -m "Add library.html"
+cd js
+git add js/
+git add images/
+git add css/
+git add library.html
+cd ~/CodeFellows
+mkdir ~/CodeFellows
+git config --list
+git config --global user.email "kendall.comey@gmail.com"
+git config --global user.name "Kendall Comey"
+sudo apt-get install git
+apt-get install git
+google-chrome-stable
