@@ -1,0 +1,10 @@
+We are starting to learn git now:
+git status
+git log
+git add
+git commit -m for the message
+git branch 'name of branch'
+git checkout 'name of branch'
+
+
+prompt is red when dirty, green when clean
